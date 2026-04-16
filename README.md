@@ -1,7 +1,11 @@
 # Primeira Entrega - Landing Page
 
-A new Flutter project.
+Hospedado: 
 
+Se tiver a muito tempo sem alguem entrar, pode demorar uns 5 minutos pra renderizar dnv
+https://mini-imperios-landingpage.onrender.com/
+
+Pra rodar na maquina tem que ter o flutter! 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
