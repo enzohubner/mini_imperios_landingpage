@@ -1,5 +1,13 @@
 # Primeira Entrega - Landing Page
 
+Integrantes:
+Enzo Hubner
+Kaio Marroque
+Raquel Nascimento
+Gustavo Gomes
+Matheus Santos
+Lais Schmitz
+
 Hospedado: 
 
 Se tiver a muito tempo sem alguem entrar, pode demorar uns 5 minutos pra renderizar dnv
